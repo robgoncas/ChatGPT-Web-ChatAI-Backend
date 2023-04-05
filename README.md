@@ -1,45 +1,45 @@
-# ChatGPT Web聊天机器人-后台
+# ChatGPT Web Chatbot-Backend
 
-**⚡** **已接入最新gpt-3.5-turbo模型**
+**⚡** ** ChatGPT Web Chatbot-Backend **
 
 ```
-码云仓库地址：https://gitee.com/JN910-14/ChatGPT-Web-ChatAI-Backend
-web端地址：https://github.com/Rlvse/ChatGPT-Web-ChatAI
+Gitee repository：https://gitee.com/JN910-14/ChatGPT-Web-ChatAI-Backend
+Web address：https://github.com/Rlvse/ChatGPT-Web-ChatAI
 ```
 
-## 🔧 环境要求
+## 🔧 System Requirements
 
-1.科学上网
+1.Internet access
+2.Register and obtain a key
 
-2.注册获取key
+## ⚙Features
 
-## ⚙功能
+* Chatting
 
-* 聊天
+## **⚡** Screenshots
 
-## **⚡** 上图
-
-**图片地址有问题的话，看码云仓库的吧，同步更新的**、
+**If there's a problem with the image address, please refer to the Gitee repository, which is kept in sync.**、
 
 ![image-20230308020435941](./README.assets/image-20230308020435941.png)
 
 ![image-20230308020530527](./README.assets/image-20230308020530527.png)
 
-## 👻交流or反馈
+## 👻Communication or Feedback
 
-有交流or反馈，可以扫PDF二维码联系
+If you have any questions or feedback, please scan the PDF QR code to contact us.
 
-服务器搭建/项目部署问题，可以扫PDF二维码联系
+For server deployment or project deployment issues, please scan the PDF QR code to contact us.
 
 <img src="./README.assets/6.jpg" alt="6" style="zoom:50%;" />
 
-## ⚡小程序万能生成器版本
+## ⚡Mini Program Universal Generator Version
 
-在线体验
+Online experience
+
 
 ![5](./README.assets/5.jpg)
 
 ```https://github.com/Rlvse/ChatGPT-miniapp
-码云版本：https://gitee.com/JN910-14/ChatGPT-miniapp
-github版本：https://github.com/Rlvse/ChatGPT-miniapp
+Gitee version：https://gitee.com/JN910-14/ChatGPT-miniapp
+GitHub version：https://github.com/Rlvse/ChatGPT-miniapp
 ```
